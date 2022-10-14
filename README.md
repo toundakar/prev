@@ -1,7 +1,7 @@
 # Chat App
 A real time chat application. <br/>
-📌TechStalk<br />
-  ➖FrontEnd: ReactJs, HTML5, CSS3 <br />
+📌TechStack<br />
+  ➖FrontEnd: ReactJs, HTML5, SASS-CSS <br />
   ➖BackEnd : Firebase <br />
   
 📌Glimpse Of Project
